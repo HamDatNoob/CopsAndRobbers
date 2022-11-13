@@ -1,0 +1,14 @@
+{
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"team": "robbers",
+		"stepping_on": {
+			"block": {
+				"blocks": [
+					"minecraft:gold_block"
+				]
+			}
+		}
+	}
+}
